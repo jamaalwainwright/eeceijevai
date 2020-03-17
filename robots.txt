@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veigixaise.kodare.net/sitemap.xml
